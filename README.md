@@ -3,7 +3,7 @@ pcat is a versatile command-line network utility used for debugging, file transf
 
 Besides creating arbitrary TCP and UDP connections, pcat has a built-in port scanning feature, allowing you to view open and closed ports on a provided host.
 
-pcat is directly inspired by the netcat utility which fulfills a similar role. The name pcat is a portmanteau of the words "packet" and "concatenate", similarly to ncat which arises from "network" and "concatenate".
+pcat is directly inspired by the netcat utility which fulfills a similar role. The name pcat is a portmanteau of the words "packet" and "concatenate", similar to ncat which arises from the words "network" and "concatenate".
 
 # Dependencies
 Building the pcat binary requires no more dependencies than the C standard library. The build process will not work for operating systems other than *NIX based ones.
